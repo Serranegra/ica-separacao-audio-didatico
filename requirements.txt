@@ -1,0 +1,6 @@
+numpy
+librosa
+soundfile
+scikit-learn
+yt-dlp
+imageio-ffmpeg
